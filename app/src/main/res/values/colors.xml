@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#2A2D31</color>
+    <color name="colorPrimaryDark">#F7F9FA</color>
+    <color name="colorAccent">#2A2D31</color>
+
+    <color name="gray">#99A2AD</color>
+    <color name="red">#FF3347</color>
+
+    <color name="default_shadow_color">#23000000</color>
+</resources>

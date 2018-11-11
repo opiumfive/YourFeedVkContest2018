@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="more">Ещё</string>
+    <string name="skip">Пропустить</string>
+    <string name="like">Мне нравится</string>
+    <string name="today">сегодня</string>
+    <string name="yesterday">вчера</string>
+    <string name="at">в</string>
+    <string name="failed_load_feed">Не удалось загрузить ленту</string>
+    <string name="failed_request">Ошибка выполнения запроса</string>
+    <string name="fail_auth">Не удалось авторизоваться</string>
+    <string name="retry">Снова</string>
+    <string name="oops">Упс</string>
+    <string name="empty_feed">Лента пуста</string>
+</resources>

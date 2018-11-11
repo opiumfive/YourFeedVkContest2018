@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="ShadowWrapView">
+        <attr name="cornerRadius" format="dimension"/>
+        <attr name="radiusOnlyTop" format="boolean"/>
+        <attr name="addInnerPadding" format="boolean"/>
+        <attr name="shadowRadius" format="dimension"/>
+        <attr name="shadowColor" format="color"/>
+        <attr name="dx" format="dimension"/>
+        <attr name="dy" format="dimension"/>
+        <attr name="dx2" format="dimension"/>
+        <attr name="dy2" format="dimension"/>
+        <attr name="shadowRadius2" format="dimension"/>
+    </declare-styleable>
+</resources>

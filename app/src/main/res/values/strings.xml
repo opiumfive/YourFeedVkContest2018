@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name" translatable="false">Vk Your Feed</string>
+
+    <integer name="com_vk_sdk_AppId">6746264</integer>
+
+    <string name="more">More</string>
+    <string name="skip">Skip</string>
+    <string name="like">Like</string>
+    <string name="today">today</string>
+    <string name="yesterday">yesterday</string>
+    <string name="at">at</string>
+    <string name="failed_load_feed">Failed to load feed</string>
+    <string name="failed_request">Failed request</string>
+    <string name="fail_auth">Failed to auth</string>
+    <string name="retry">Retry</string>
+    <string name="oops">Oops</string>
+    <string name="empty_feed">Feed is empty</string>
+</resources>
