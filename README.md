@@ -1,5 +1,6 @@
 # YourFeedVkContest2018
 vk contest app (news feed) for 09-11 nov 2018
+
 Small video: 
 
 https://github.com/opiumfive/YourFeedVkContest2018/blob/master/video_2018-11-12_23-33-26.mp4
