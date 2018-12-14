@@ -16,10 +16,8 @@ https://github.com/opiumfive/YourFeedVkContest2018/blob/master/video_2018-11-12_
 
 <b>Фидбек после тестирования:</b>
 
-Плюсы:
-
+Плюсы: </br>
 • В общих чертах работает.
-
 
 Минусы:
 
